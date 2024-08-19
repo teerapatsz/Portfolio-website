@@ -23,7 +23,7 @@ const projects = [
     title: "AI predicts car brands" ,
     description:"This project involves AI prediction, where we have collected images of cars from brands such as Benz, Honda, Isuzu, Mazda, MG, Mitsubishi, Nissan, and Toyota.",
     github:"https://drive.google.com/file/d/1lmOh9N2bt72WBcRqT3BcOENaF4jUQvBw/view?usp=drive_link",
-    image: "/Cardetection.png",
+    image: "/CarDetection.png",
   },
   { id: "03", 
     title: "POS System" ,
@@ -86,7 +86,6 @@ export default function WorkPage() {
                           fill
                           className="object-fill"
                           alt=""
-                          
                         />
                       </div>
                     </div>
